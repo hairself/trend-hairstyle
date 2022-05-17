@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hairself.github.io/trend-hairstyle/sitemapx.xml
